@@ -1,0 +1,1 @@
+https://deepbluembedded.com/esp32-change-cpu-speed-clock-frequency/
